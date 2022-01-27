@@ -1,7 +1,7 @@
 # FBchess
 this code allows u to create a Chess game in your messenger discussions
 
-First you need to add your email adress and password to the code by changing it at line 689 of the main code "chessFB.py"
+First you need to add your email address and password to the code by changing it at line 689 of the main code "chessFB.py"
 
 then , while it runs you can type "@chess" to see the actual game
                                   "@chess newgame" to create a new game
