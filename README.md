@@ -13,4 +13,4 @@ Castling is not implemented and the code dont check if your king is attacked at 
 
 will update it later
 
-![Screenshot](Capture d’écran 2022-01-27 à 01.12.04.png)
+<img width="934" alt="Capture d’écran 2022-01-27 à 01 12 04" src="https://user-images.githubusercontent.com/61838082/151268378-d54b96d5-c62f-4e47-9eb5-2900ed1943d4.png">
