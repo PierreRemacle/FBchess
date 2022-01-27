@@ -686,5 +686,5 @@ class EchoBot(Client):
 
 games=[]
 id=[]
-client = EchoBot("pierrepierreremacle@gmail.com", "Romacaputmundi1")
+client = EchoBot(email, MDP)
 client.listen()
