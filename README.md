@@ -12,3 +12,5 @@ u can have only have one game per person
 Castling is not implemented and the code dont check if your king is attacked at the moment
 
 will update it later
+
+![Screenshot](Capture d’écran 2022-01-27 à 01.12.04.png)
