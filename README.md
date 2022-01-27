@@ -1,2 +1,14 @@
 # FBchess
-Chess game for messenger
+this code allows u to create a Chess game in your messenger discussions
+
+First you need to add your email adress and password to the code by changing it at line 689 of the main code "chessFB.py"
+
+then , while it runs you can type "@chess" to see the actual game
+                                  "@chess newgame" to create a new game
+                                  "@chess A1 A1" to move a piece , this will only work if the move is valid
+
+u can have only have one game per person 
+
+Castling is not implemented and the code dont check if your king is attacked at the moment
+
+will update it later
